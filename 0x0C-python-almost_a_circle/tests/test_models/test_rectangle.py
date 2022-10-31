@@ -1,20 +1,3 @@
-
-zeddymuge
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0C-python-almost_a_circle/tests/test_models/test_rectangle.py
-@zeddymuge
-zeddymuge test done
- 1 contributor
-248 lines (208 sloc)  8.24 KB
 #!/usr/bin/python3
 """Unittest rectangle
 Test cases for the Rectangle class.
